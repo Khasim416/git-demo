@@ -1,0 +1,13 @@
+**** Sequence Wise Git commands to be Executed ****
+
+git status -> print status of Git repository
+git init -> Initializes the git repository
+git add <filename>
+git add *  -> add if any changes occures to files.
+git commit -m ""
+git config --global user.name "Let's Kode It"
+git config --global user.email kasimvali416@gmail.com
+git config user.name "Let's Kode It" -> specify username
+git config user.email kasimvali416@gmail.com	
+git log
+Git diff <filename>
